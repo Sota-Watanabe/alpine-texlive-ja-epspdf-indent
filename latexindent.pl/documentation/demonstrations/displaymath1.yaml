@@ -1,6 +1,0 @@
-replacements:
-  -
-    substitution: |-
-     s/\$\$
-       (.*?)
-       \$\$/\\begin{equation*}$1\\end{equation*}/sgx

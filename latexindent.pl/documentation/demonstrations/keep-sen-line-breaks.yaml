@@ -1,4 +1,0 @@
-modifyLineBreaks:
-    oneSentencePerLine:
-        manipulateSentences: 1
-        removeSentenceLineBreaks: 0

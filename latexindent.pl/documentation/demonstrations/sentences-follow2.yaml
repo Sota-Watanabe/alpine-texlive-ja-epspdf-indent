@@ -1,5 +1,0 @@
-modifyLineBreaks:
-    oneSentencePerLine:
-        manipulateSentences: 1
-        sentencesFollow:
-           other: "\)"

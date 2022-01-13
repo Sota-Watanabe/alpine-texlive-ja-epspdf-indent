@@ -1,2 +1,0 @@
-sphinxcontrib-proof
-docutils<0.18

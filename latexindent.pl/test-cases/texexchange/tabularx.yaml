@@ -1,4 +1,0 @@
-lookForAlignDelims:
-    tabularx:
-      multiColumnGrouping: 1
-      alignRowsWithoutMaxDelims: 1

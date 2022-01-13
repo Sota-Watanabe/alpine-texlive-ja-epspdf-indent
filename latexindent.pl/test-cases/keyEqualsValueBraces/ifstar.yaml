@@ -1,5 +1,0 @@
-specialBeginEnd:
-    ifstar:
-        begin: '\\@if'
-        end: 'star'
-        lookForThis: 'verbatim'

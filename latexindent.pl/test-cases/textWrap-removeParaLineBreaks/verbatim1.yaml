@@ -1,5 +1,0 @@
-modifyLineBreaks:
-    removeParagraphLineBreaks:
-        all: 1
-        paragraphsStopAt:
-            verbatim: 1

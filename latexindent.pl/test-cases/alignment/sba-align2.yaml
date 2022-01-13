@@ -1,9 +1,0 @@
-defaultIndent: ' '
-
-noAdditionalIndent:
-  align*: 1
-
-lookForAlignDelims:
-   align*: 
-      spacesBeforeAmpersand: 
-        leadingBlankColumn: 3

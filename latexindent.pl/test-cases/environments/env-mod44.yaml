@@ -1,6 +1,0 @@
-modifyLineBreaks:
-    environments:
-        BeginStartsOnOwnLine: 3
-        BodyStartsOnOwnLine: -1
-        EndStartsOnOwnLine: 3
-        EndFinishesWithLineBreak: -1

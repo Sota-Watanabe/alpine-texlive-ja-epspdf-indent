@@ -1,8 +1,0 @@
-defaultIndent: "  "
-lookForAlignDelims:
-  displayMath:
-    dontMeasure: largest
-    lookForChildCodeBlocks: 0
-
-specialBeginEnd:
-    specialBeforeCommand: 1

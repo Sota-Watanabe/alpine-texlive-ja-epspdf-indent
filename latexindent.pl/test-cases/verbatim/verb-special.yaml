@@ -1,5 +1,0 @@
-specialBeginEnd:
-    displayMath:
-        begin: '\\\['
-        end: '\\\]'
-        lookForThis: verbatim

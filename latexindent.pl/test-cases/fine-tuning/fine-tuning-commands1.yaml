@@ -1,3 +1,0 @@
-fineTuning:
-  commands:
-      name: '[A-Z@\*0-9_\\]+' 

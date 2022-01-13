@@ -1,3 +1,0 @@
-fineTuning:
-  keyEqualsValuesBracesBrackets:
-      follow: ',|(?:(?<!\\)\[)'

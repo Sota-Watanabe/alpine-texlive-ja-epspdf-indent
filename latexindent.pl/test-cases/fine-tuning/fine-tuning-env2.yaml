@@ -1,3 +1,0 @@
-fineTuning:
-    environments:
-      name: '[a-z\*0-9_\\]+' 

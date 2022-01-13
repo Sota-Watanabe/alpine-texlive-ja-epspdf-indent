@@ -1,4 +1,0 @@
-lookForAlignDelims:
-    longtable:
-      multiColumnGrouping: 1
-      alignRowsWithoutMaxDelims: 1

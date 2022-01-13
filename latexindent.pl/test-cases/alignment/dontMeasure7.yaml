@@ -1,6 +1,0 @@
-lookForAlignDelims:
-   tabular: 
-      dontMeasure:
-        -
-            regex: \\multicolumn\{\d
-            applyTo: row

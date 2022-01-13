@@ -1,3 +1,0 @@
-replacements:
-  -
-    substitution: s/\\arraycolsep=\d+pt//sg

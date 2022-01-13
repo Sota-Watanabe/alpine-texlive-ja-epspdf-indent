@@ -1,8 +1,0 @@
-defaultIndent: ' '
-
-noAdditionalIndent:
-  aligned: 1
-
-lookForAlignDelims:
-   aligned: 
-      spacesBeforeAmpersand: 1

@@ -1,5 +1,0 @@
-lookForAlignDelims:
-   matrix: 
-      spacesBeforeAmpersand: 2
-      spacesAfterAmpersand: 3
-      spacesBeforeDoubleBackSlash: 5

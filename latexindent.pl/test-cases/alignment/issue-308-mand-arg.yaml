@@ -1,4 +1,0 @@
-defaultIndent: "  "
-lookForAlignDelims:
-  cmh: 
-    dontMeasure: largest

@@ -1,4 +1,0 @@
-fineTuning:
-    keyEqualsValuesBracesBrackets:
-      name: [a-zA-Z@\*0-9_\/.\h\{\}:\#-']+?
-      follow: (?:(?<!\\)\{)|,|(?:(?<!\\)\[)

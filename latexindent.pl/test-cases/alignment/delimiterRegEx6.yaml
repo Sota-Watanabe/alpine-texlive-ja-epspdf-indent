@@ -1,4 +1,0 @@
-lookForAlignDelims:
-   tabbing: 
-    delimiterRegEx: '(#|\\>)'
-    delimiterJustification: right

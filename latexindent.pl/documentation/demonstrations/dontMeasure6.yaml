@@ -1,6 +1,0 @@
-lookForAlignDelims:
-   tabular: 
-      dontMeasure:
-        - 
-          regex: [a-z]
-          applyTo: row

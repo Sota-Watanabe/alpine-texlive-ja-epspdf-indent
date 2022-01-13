@@ -1,5 +1,0 @@
-specialBeginEnd:
-    leftRightSquare:
-        begin: '\\left\['
-        end: '\\right\]'
-        lookForThis: 1
