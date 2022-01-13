@@ -32,3 +32,6 @@ vscode の setting.json に以下のように記述
 以上.
 
 ファイルを変更して保存すると latexindent でフォーマットと pdf 作成をしてくれる
+
+## イメージ作成コマンド
+`docker build -t watanabesota/alpine-texlive-ja-epspdf-indent `.
