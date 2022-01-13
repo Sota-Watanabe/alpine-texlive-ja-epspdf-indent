@@ -1,0 +1,3 @@
+[submodule "latexindent.pl"]
+	path = latexindent.pl
+	url = git@github.com:cmhughes/latexindent.pl.git
