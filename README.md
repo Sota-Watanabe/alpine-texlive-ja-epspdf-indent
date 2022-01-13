@@ -35,3 +35,9 @@ vscode の setting.json に以下のように記述
 
 ## イメージ作成コマンド
 `docker build -t watanabesota/alpine-texlive-ja-epspdf-indent `.
+
+## 注意
+- ファイル名が日本語だと動かない事例あり
+- TeXが間違っており, ビルドが終わらない(ヘッダー確認)事例あり
+→`docker ps` で対象コンテナのIDを取得
+→`docker rm -f {{ ID }}` でコンテナを強制停止
